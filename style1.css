@@ -1,0 +1,52 @@
+td{
+    height: 50px;
+    width: 100px;
+    border: 2px solid white;
+    color: white;
+}
+body{
+    background: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.subheading{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(243, 242, 242, 0.5);
+    width: 1200px;
+    margin: auto;
+    margin-top: 40px;
+    padding : 20px;
+}
+.h3{
+    color : white ;
+    font-size : x-large;
+}
+.tab{
+    display: flex;
+    justify-content: space-evenly;
+    padding :20px;
+    
+    
+}
+
+
+
+ .h1{ color : white;
+    font-style: italic ;
+    font-size:xx-large;
+    width :600px;
+    text-align : center;
+    margin :auto;
+
+}
+
+img{
+    height: 120px;
+    width :100px;
+    padding : 10px;
+
+}
